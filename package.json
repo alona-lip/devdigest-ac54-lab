@@ -1,0 +1,7 @@
+{
+  "name": "devdigest-ac54-lab",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Lab repository for DevDigest AC-54 (project context in reviews)",
+  "type": "module"
+}
